@@ -1,2 +1,2 @@
-# reports
+# Samples
 whyuser reports
